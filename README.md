@@ -1,3 +1,5 @@
+
+# Movie-Recommendation-System
 In the project of building a content-based recommendation engine for movies, the goal is to provide personalized and relevant movie recommendations to users based on their preferences and the characteristics of the movies themselves. This type of recommendation system focuses on understanding the content or features of the movies and finding similarities between them to suggest similar movies that a user might enjoy. Here's an expanded and more detailed explanation of content-based filtering in the context of movie recommendations:
 
 Content-based Filtering:
